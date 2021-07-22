@@ -1,0 +1,138 @@
+{
+    "app_title": "aplicación de comercio electrónico",
+    "welcome_message": "Welcome",
+    "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+    "header": {
+        "shop": "Tienda",
+        "signinBtn": "Iniciar sesión",
+        "searchInput": "Escribe para buscar..."
+    },
+    "drawer": {
+        "morefrom": "Más de empresa",
+        "subscriptions": "Suscripciones",
+        "followers": "Seguidores",
+        "yourProducts": "Tus productos",
+        "explore": "Explorar",
+        "settings": "ajustes",
+        "reportHistory": "Historial de informes",
+        "help": "Ayudar",
+        "sendFeedback": "Envíe sus comentarios",
+        "option": "opción",
+        "faq": "Preguntas frecuentes",
+        "createMarket":"Crear mercado",
+        "markets": "Mercados"
+
+    },
+
+    "signin": {
+        "loginBtn": "Accesso",
+        "registerBtn": "Registrarse",
+        "email": "Correo electrónico",
+        "password": "Parola",
+        "fullName": "Nombre completo",
+        "rememberMe": "Acuérdate de mí",
+        "forgotPassword": "olvidó tu contraseña? ",
+        "haveAccount": "ya tienes cuenta?",
+        "orContinueWith": "o continuar con",
+        "submitBtn": "Enviar"
+    },
+
+    "toolTip": {
+        "yourCart": "Tu carrito",
+        "yourAccount": "Su cuenta",
+        "yourWishlist": "Tu lista de deseos",
+        "yourNotifications": "Tus notificaciones"
+    },
+
+    "accountMenu": {
+        "messages": "Mensajes",
+        "purchasesHistory": "Compras y reseñas",
+        "accountSettings": "Configuraciones de la cuenta",
+        "sellOn": "Vender en {{brandName}} ",
+        "logout": "desconectar"
+    },
+
+    "forgotPassword": {
+        "title": "Página de contraseña olvidada",
+        "paragraph": "Ingrese su dirección de correo electrónico que utilizó para registrarse. Le enviaremos un correo electrónico con un enlace para restablecer su contraseña.",
+        "email": "Correo electrónico",
+        "submit": "Enviar"
+    },
+    "footer": {
+        "company": "Compañía",
+        "getHelp": "Consigue ayuda",
+        "community": "Comunidad",
+        "onlineShop": "Tienda online",
+        "followUs": "Síganos",
+        "aboutUs": "Sobre nosotros",
+        "ourServices": "Nuestros servicios",
+        "privacyPolicy": "Política de privacidad",
+        "affiliateProgram": "Programa de afiliación",
+        "shipping": "Transporte",
+        "returns": "Devoluciones",
+        "orderStatus": "Estado de la orden",
+        "paymentOptions": "Opciones de pago",
+        "termsOfUse": "Terminos de Uso",
+        "contract": "Contrato",
+        "explore": "Explorar",
+        "ourTeam": "Nuestro equipo",
+        "investors": "Inversionistas",
+        "careers": "Carreras",
+        "joinOurTeam": "Unete a nuestro equipo",
+        "ourVideos": "Nuestros videos",
+        "getCoupon": "obtener cupón"
+
+    },
+    "menuHeader": {
+        "newProducts": "Nuevos productos",
+        "home&living": "Vida en el Hogar",
+        "electronic&technology": "Tecnología Electrónica",
+        "beauty&cosmetics": "Belleza",
+        "clothing&shoes": "Ropas & Zapatos",
+        "art&collectibles": "Arte & Coleccionables",
+        "jewelery&accessories": "Joyas & Accesorios",
+        "vintage": "Clásico"
+    },
+    "card" :  {
+        "latestProducts": "Últimos productos"
+    },
+    "messages": {
+        "passwordLength": "La contraseña debe tener más de 6 caracteres",
+        "allFields" : "Proporcione todos los campos por favor",
+        "protectedRoute": "Inicie sesión primero para acceder a esta ruta"
+      
+        
+    },
+    "desclabels": {
+        "name": "Nombre completo",
+        "email": "Correo electrónico",
+       
+        "description": "Description",
+        "live": "Vivir",
+        "address": "Dirección" 
+    },
+    "updateProfile": {
+        "name": "Nombre completo",
+      "submit": "Entregar",
+      "email": "Dirección de correo electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "title": "Actualización del perfil",
+      "pageHeadertitle": "Información de usuario",
+      "pageHeadersubtitle": "su información de perfil y editar perfil"
+
+    }
+
+ 
+
+    
+
+
+
+
+
+
+
+
+}

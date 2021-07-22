@@ -1,0 +1,137 @@
+{
+    "app_title": "Company - Best place to sell all things and make money  global marketplace website ",
+    "language": "Language",
+    "welcome_message": "Welcome",
+    "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+    "mainTitle": {
+        "home": "Company - Best place to sell all things and make money  global marketplace website ",
+        "notFound": "404 Not Found",
+        "forgotPassword": "Forgot Password",
+        "resetPassword": "Reset Password",
+        "wishlist": "{{username}} on ",
+        "cart": "Shopping basket",
+        "payment": "Pay now",
+        "checkout": "Checkout before pay"
+
+    },
+
+
+
+    "header": {
+        "charts": "Charts",
+        "signinBtn": "Sign in",
+        "searchInput": "Type to search..."
+    },
+    "drawer": {
+        "morefrom": "More from Company",
+        "subscriptions": "Subscriptions",
+        "followers": "Followers",
+        "yourProducts": "Your products",
+        "explore": "Explore",
+        "settings": "Settings",
+        "reportHistory": "Report history",
+        "help": "Help",
+        "sendFeedback": "Send feedback",
+        "option": "option",
+        "faq": "FAQ",
+        "createMarket": "Create market",
+        "markets": "Markets",
+        "getUsers": "Get all users",
+        "createCoupon": "Create coupon"
+    },
+
+    "signin": {
+        "loginBtn": "Login",
+        "registerBtn": "Register",
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "password": "Password",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot Password?",
+        "haveAccount": "Already have account?",
+        "orContinueWith": "or continue with"
+    },
+    "toolTip": {
+        "yourCart": "Your cart",
+        "yourAccount": "Your account",
+        "yourWishlist": "Your wishlist",
+        "yourNotifications": "Your notifications"
+    },
+    "accountMenu": {
+        "messages": "Messages",
+        "purchasesHistory": "Purchases & Reviews",
+        "accountSettings": "Account settings",
+        "sellOn": "Sell on {{brandName}} ",
+        "logout": "Logout"
+    },
+    "footer": {
+        "company": "Company",
+        "getHelp": "Get Help",
+        "community": "Community",
+        "onlineShop": "Online Shop",
+        "followUs": "Follow Us",
+        "aboutUs": "About Us",
+        "ourServices": "Our Services",
+        "privacyPolicy": "Privacy Policy",
+        "affiliateProgram": "Affiliate Program",
+        "faq": "FAQ",
+        "shipping": "Shipping",
+        "returns": "Returns",
+        "orderStatus": "Order Status",
+        "paymentOptions": "Payment Options",
+        "termsOfUse": "Terms of Use",
+        "contract": "Contract",
+        "explore": "Explore",
+        "ourTeam": "Our Team",
+        "investors": "Investors",
+        "careers": "Careers",
+        "joinOurTeam": "Join Our Team",
+        "ourVideos": "Our Videos",
+        "getCoupon": "Get Coupon"
+
+    },
+  
+
+    "forgotPassword": {
+        "title": "Forgot password",
+        "paragraph": "Enter your email address that you used to register. We'll send you an email with a link to reset your password",
+        "submit": "Submit",
+        "email": "Email Address"
+
+    },
+    "card": {
+        "latestProducts": "Latest Products",
+        "relatedProducts": "Related Products",
+        "cardTitle": "{{cardTitle}}"
+    },
+    "messages": {
+        "passwordLength": "Password must be longer than 6 characters",
+        "allFields": "Provide all fields please",
+        "loginSuccess": "Successfully logged in to website ",
+        "registerSuccess": "Successfully created account.Have nice shopping ! ",
+        "protectedRoute": "Login to first to access this route",
+        "resetSuccess": "Password Reset Success",
+        "passwordNotMatch": "Passwords do not match",
+        "updateProfile": "Updated profile successfully"
+    },
+    "desclabels": {
+        "name": "Full Name",
+        "email": "Email",
+        "description": "Description",
+        "live": "Live",
+        "address": "Address" 
+    },
+    "updateProfile": {
+      "name": "Full name",
+      "submit": "Submit",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "title": "Update Profile",
+      "pageHeadertitle": "User Info",
+      "pageHeadersubtitle": "your profile informations & edit profile"
+
+    }
+
+}

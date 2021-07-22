@@ -1,0 +1,136 @@
+{
+    "app_title": "E-Commerce-App",
+    "language": "Language",
+    "welcome_message": "Welcome",
+    "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+    "header": {
+        "shop": "Geschäft",
+        "signinBtn": "Einloggen",
+        "searchInput": "Tippe um zu suchen..."
+    },
+    "drawer": {
+        "morefrom": "Mehr von company",
+        "subscriptions": "Abonnements",
+        "followers": "Anhänger",
+        "yourProducts": "Your products",
+        "explore": "Explore",
+        "settings": "die Einstellungen",
+        "reportHistory": "Verlauf melden",
+        "help": "Hilfe",
+        "sendFeedback": "Feedback abschicken",
+        "option": "Möglichkeit",
+        "faq": "häufig gestellte Fragen"
+    },
+
+    "signin": {
+        "loginBtn": "das Login",
+        "registerBtn": "Registrieren",
+        "fullName": "Vollständiger Name",
+        "email": "E-Mail-Addresse",
+        "password": "Passwort",
+        "rememberMe": "Mich erinnern",
+        "forgotPassword": "Passwort vergessen?",
+        "haveAccount": "Schon einen Account?",
+        "orContinueWith": "oder weiter mit"
+
+
+    },
+    "toolTip": {
+        "yourCart": "Ihr Warenkorb",
+        "yourAccount": "Ihr Konto",
+        "yourWishlist": "Deine Wunschliste",
+        "yourNotifications": "Ihre Benachrichtigungen"
+    },
+    "accountMenu": {
+        "messages": "Mitteilungen",
+        "purchasesHistory": "Käufe & Bewertungen",
+        "accountSettings": "Account Einstellungen",
+        "sellOn": "Verkaufen auf {{brandName}} ",
+        "logout": "Ausloggen"
+    },
+    "footer": {
+        "company": "Unternehmen",
+        "getHelp": "Hilfe bekommen",
+
+        "community": "Gemeinschaft",
+        "onlineShop": "Online Shop",
+        "followUs": "Folge uns",
+        "aboutUs": "Über uns",
+        "ourServices": "Unsere Dienstleistungen",
+        "privacyPolicy": "Datenschutz-Bestimmungen",
+        "affiliateProgram": "Partnerprogramm",
+        "faq": "FAQ",
+        "shipping": "Versand",
+        "returns": "Kehrt zurück",
+        "orderStatus": "Bestellstatus",
+        "paymentOptions": "Zahlungsmöglichkeiten",
+        "termsOfUse": "Nutzungsbedingungen",
+        "contract": "Vertrag",
+        "explore": "Erkunden",
+
+        "ourTeam": "Unser Team",
+        "investors": "Investoren",
+        "careers": "Karriere",
+
+        "joinOurTeam": "Trete unserem Team bei",
+
+        "ourVideos": "Unsere Videos",
+        "getCoupon": "Gutschein erhalten"
+
+
+
+
+    },
+    "menuHeader": {
+
+        "newProducts": "Neue Produkte",
+        "home&living": "Zuhause wohnen",
+        "electronic&technology": "Elektronische Technologie",
+
+        "beauty&cosmetics": "Schönheit",
+        "clothing&shoes": "Kleidung & Schuhe",
+        "art&collectibles": "Kunst & Sammlerstücke",
+        "jewelery&accessories": "Schmuck & Accessoires",
+        "vintage": ""
+    },
+
+    "forgotPassword": {
+        "title": "Passwort vergessen",
+        "paragraph": "Geben Sie Ihre E-Mail-Adresse ein, mit der Sie sich registriert haben. Wir senden Ihnen eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts",
+        "submit": "Einreichen",
+        "email": "E-Mail-Addresse"
+
+    },
+    "card": {
+        "latestProducts": "Neueste Produkte"
+    },
+
+    "messages": {
+        "passwordLength": "Password must be longer than 6 characters",
+        "allFields": "Provide all fields please"
+
+    },
+    "desclabels": {
+        "name": "Nombre completo",
+        "email": "Correo electrónico",
+
+        "description": "Description",
+        "live": "Vivir",
+        "address": "Dirección"
+    },
+    "updateProfile": {
+        "name": "Nombre completo",
+        "submit": "Entregar",
+        "email": "Dirección de correo electrónico",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "title": "Actualización del perfil",
+        "pageHeadertitle": "Información de usuario",
+        "pageHeadersubtitle": "su información de perfil y editar perfil"
+
+    }
+
+
+
+}

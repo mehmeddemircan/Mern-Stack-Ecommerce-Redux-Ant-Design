@@ -1,0 +1,41 @@
+div.ant-card-body  {
+    padding: 18px
+  }
+section.ant-layout{
+  background: #fff;
+}
+
+span.anticon.anticon-heart.productHeart{
+  text-align : center;
+  position: absolute;
+  background : #fff;
+    width: 30;
+    height: 30;
+    border-radius: 50%;
+  padding: 7px;
+  margin:  4px 4px 0 0;
+  font-size: 16px;
+  opacity: 0;
+} 
+.productCard:hover  span.anticon.anticon-heart.productHeart{
+  opacity: 1;
+}
+
+.productCardWishlisted span.anticon.anticon-heart.productHeart{
+  opacity: 1;
+}
+span.anticon.anticon-heart.wishlisted {
+  text-align : center;
+  position: absolute;
+  background : #fff;
+  color: rgb(166, 26, 46);
+    width: 30;
+    height: 30;
+    border-radius: 50%;
+  padding: 7px;
+  margin:  4px 4px 0 0;
+  font-size: 16px;
+
+  
+}
+

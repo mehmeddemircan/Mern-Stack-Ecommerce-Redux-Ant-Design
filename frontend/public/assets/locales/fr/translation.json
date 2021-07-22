@@ -1,0 +1,136 @@
+{
+    "app_title": "Titre",
+    "language": "Language",
+    "welcome_message": "Welcome",
+    "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+    "header": {
+        "shop": "Magasin",
+        "signinBtn": "S'identifier",
+        "searchInput": "Tapez pour rechercher..."
+
+    },
+    "drawer": {
+        "morefrom": "Plus de entreprise",
+        "subscriptions": "Abonnements",
+        "followers": "Suiveurs",
+        "yourProducts": "Vos produits",
+        "explore": "Explorer",
+        "settings": "Réglages",
+        "reportHistory": "Rapport Historique",
+        "help": "Aider",
+        "sendFeedback": "Envoyez des commentaires",
+        "option": "option",
+        "faq": "Questions fréquentes",
+        "createMarket": "Create market",
+        "markets": "Les marchés"
+    },
+
+    "signin": {
+        "loginBtn": "Connexion",
+        "registerBtn": "S'inscrire",
+        "fullName": "Nom complet",
+        "email": "adresse e-mail",
+
+        "password": "Mot de passe",
+        "rememberMe": "Souviens de moi",
+        "forgotPassword": "Mot passe oublié?",
+        "haveAccount": "Avez déjà compte?",
+        "orContinueWith": "ou continuer avec"
+
+
+    },
+    "toolTip": {
+        "yourCart": "Votre panier",
+        "yourAccount": "Votre compte",
+        "yourWishlist": "Votre liste de souhaits",
+        "yourNotifications": "Vos notifications"
+    },
+    "accountMenu": {
+        "messages": "Messages",
+        "purchasesHistory": "Achats et Avis",
+        "accountSettings": "Paramètres du compte",
+        "sellOn": "Vendre sur {{brandName}} ",
+        "logout": "Se déconnecter"
+    },
+    "footer": {
+        "company": "Entreprise",
+        "getHelp": "Obtenir de l'aide",
+        "community": "Communauté",
+        "onlineShop": "Magasin en ligne",
+        "followUs": "Suivez nous",
+        "aboutUs": "À propos de nous",
+        "ourServices": "Nos services",
+        "privacyPolicy": "Politique de confidentialité",
+        "affiliateProgram": "Programme d'affiliation",
+        "faq": "FAQ",
+        "shipping": "Expédition",
+        "returns": "Retour",
+        "orderStatus": "Statut de la commande",
+        "paymentOptions": "Options de paiement",
+        "termsOfUse": "Conditions d'utilisation",
+        "contract": "Contracter",
+        "explore": "Explorer",
+
+        "ourTeam": "Notre équipe",
+        "investors": "Investisseurs",
+        "careers": "Carrières",
+        "joinOurTeam": "Rejoins notre équipe",
+        "ourVideos": "Nos vidéos",
+        "getCoupon": "Obtenez un coupon"
+
+
+
+
+    },
+    "menuHeader": {
+
+        "newProducts": "Nouveau produits",
+        "home&living": "La vie domestique",
+        "electronic&technology": "Technologie",
+        "beauty&cosmetics": "Beauté",
+       
+        "clothing&shoes": "Vêtements & Chaussures",
+        "art&collectibles": "Art & Objets de collection",
+        "jewelery&accessories": "Bijoux & Accessoires",
+        "vintage": "Vintage"
+    },
+
+    "forgotPassword": {
+        "title": "Mot de passe oublié",
+        "paragraph": "Saisissez votre adresse e-mail que vous avez utilisée pour vous inscrire. Nous vous enverrons un e-mail avec un lien pour réinitialiser votre mot de passe",
+        "submit": "Soumettre",
+        "email": "Adresse e-mail"
+
+    },
+    "card": {
+        "latestProducts": "Derniers produits"
+
+    },
+    "messages": {
+        "passwordLength": "Le mot de passe doit contenir plus de 6 caractères",
+        "allFields": "Fournissez tous les champs s'il vous plaît"
+
+    },
+    "desclabels": {
+        "name": "Nombre completo",
+        "email": "Correo electrónico",
+
+        "description": "Description",
+        "live": "Vivir",
+        "address": "Dirección"
+    },
+    "updateProfile": {
+        "name": "Nombre completo",
+        "submit": "Entregar",
+        "email": "Dirección de correo electrónico",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "title": "Actualización del perfil",
+        "pageHeadertitle": "Información de usuario",
+        "pageHeadersubtitle": "su información de perfil y editar perfil"
+
+    }
+
+
+}

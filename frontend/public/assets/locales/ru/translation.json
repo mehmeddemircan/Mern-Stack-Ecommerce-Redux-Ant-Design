@@ -1,0 +1,143 @@
+  {
+      "app_title": "приложение для электронной коммерции",
+      "language": "Language",
+      "welcome_message": "Welcome",
+      "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+      "header": {
+          "shop": "Магазин",
+          "signinBtn": "логин",
+
+          "searchInput": "Введите для поиска..."
+      },
+      "drawer": {
+          "morefrom": "Больше от Компания",
+          "subscriptions": "Подписки",
+          "followers": "Подписчики",
+          "yourProducts": "Ваши продукты",
+          "explore": "Проводить исследования",
+          "settings": "Настройки",
+          "reportHistory": "История отчетов",
+          "help": "Помощь",
+          "sendFeedback": "Отправить отзыв",
+          "option": "вариант",
+          "faq": "часто задаваемые вопросы.",
+          "createMarket": "Создать рынок",
+          "markets": "Рынки"
+      },
+
+      "signin": {
+          "loginBtn": "логин",
+
+          "registerBtn": "регистр",
+          "fullName": "Полное имя",
+          "email": "Эл. адрес",
+
+          "password": "Пароль",
+          "rememberMe": "Запомни меня",
+          "forgotPassword": "Забыл пароль?",
+          "haveAccount": "Уже есть аккаунт?",
+          "orContinueWith": "или продолжить с"
+
+
+      },
+      "toolTip": {
+          "yourCart": "Ваша корзина",
+          "yourAccount": "Ваш счет",
+          "yourWishlist": "Ваш список желаний",
+          "yourNotifications": "Ваши уведомления"
+      },
+      "accountMenu": {
+          "messages": "Сообщения",
+
+          "purchasesHistory": "Покупки и отзывы",
+          "accountSettings": "Настройки аккаунта",
+          "sellOn": "Продавать на {{brandName}} ",
+          "logout": "Выйти"
+      },
+      "footer": {
+          "company": "Компания",
+          "getHelp": "Получить помощь",
+          "community": "Сообщество",
+          "onlineShop": "Интернет магазин",
+          "followUs": "Подписывайтесь на нас",
+          "aboutUs": "О нас",
+          "ourServices": "Наши услуги",
+          "privacyPolicy": "Политика конфиденциальности",
+          "affiliateProgram": "Партнерская программа",
+          "faq": "FAQ",
+          "shipping": "Перевозки",
+          "returns": "Возврат",
+
+          "orderStatus": "Статус заказа",
+
+          "paymentOptions": "Варианты оплаты",
+          "termsOfUse": "Условия эксплуатации",
+          "contract": "Договор",
+          "explore": "Проводить исследования",
+
+          "ourTeam": "Наша команда",
+
+          "investors": "Инвесторам",
+
+          "careers": "Карьера",
+
+          "joinOurTeam": "Присоединиться к нашей команде",
+          "ourVideos": "Наши видео",
+          "getCoupon": "Получить купон"
+
+
+
+
+      },
+      "menuHeader": {
+
+          "newProducts": "новейший",
+
+          "home&living": "Дом и жизнь",
+          "electronic&technology": "Электроника и технологии",
+          "beauty&cosmetics": "Красота",
+          "clothing&shoes": "Одежда и обувь",
+          "art&collectibles": "искусство и собирать",
+          "jewelery&accessories": "Украшения и аксессуары",
+          "vintage": "Винтаж"
+      },
+
+      "forgotPassword": {
+          "title": "Забыл пароль",
+          "paragraph": "Введите свой адрес электронной почты, который вы использовали при регистрации. Мы отправим вам электронное письмо со ссылкой для сброса пароля.",
+          "submit": "послать",
+          "email": "Адрес электронной почты"
+
+      },
+      "card": {
+          "latestProducts": "Последние продукты"
+      },
+      "messages": {
+          "passwordLength": "Пароль должен быть длиннее 6 символов.",
+          "allFields": "Пожалуйста, заполните все поля"
+
+
+      },
+      "desclabels": {
+          "name": "Nombre completo",
+          "email": "Correo electrónico",
+
+          "description": "Description",
+          "live": "Vivir",
+          "address": "Dirección"
+      },
+      "updateProfile": {
+          "name": "Nombre completo",
+          "submit": "Entregar",
+          "email": "Dirección de correo electrónico",
+          "password": "Contraseña",
+          "confirmPassword": "Confirmar contraseña",
+          "title": "Actualización del perfil",
+          "pageHeadertitle": "Información de usuario",
+          "pageHeadersubtitle": "su información de perfil y editar perfil"
+
+      }
+
+
+  }

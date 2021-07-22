@@ -1,0 +1,28 @@
+.scrollbar::-webkit-scrollbar {
+    width: 0;
+}
+
+.scrollbar-notifications::-webkit-scrollbar {
+    width:  8px;
+
+}
+.scrollbar-notifications::-webkit-scrollbar-thumb {
+
+        background:  #bdc3c7;
+        border-radius: 6px;
+    
+}
+button.ant-btn.detailButtons {
+    border: none;
+    color: #222;
+    font-size: 22;
+    margin: 8px 0px;
+
+}
+button.ant-btn.detailButtons:hover {
+    background-color: rgba(34, 34, 34, 0.15);
+
+}
+
+
+
